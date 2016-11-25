@@ -1,0 +1,2 @@
+[config]
+SCM_SCRIPT_GENERATOR_ARGS=--aspNetCore "src\MvcCoreVS2017RC\MvcCoreVS2017RC.csproj" --solutionFile MvcCoreVS2017RC.sln
